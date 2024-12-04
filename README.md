@@ -1,4 +1,4 @@
-# My [Linux Journey](www.linuxjourney.com)
+# My [Linux Journey](https://linuxjourney.com/) Answers
 
 ```
 
